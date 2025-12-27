@@ -180,12 +180,12 @@ export const howItWorks = [
 ];
 
 export const socialMedia = [
-  { name: "WhatsApp", icon: "MessageCircle", url: "https://wa.me/919876543210", color: "#25D366" },
-  { name: "Facebook", icon: "Facebook", url: "https://facebook.com/fordge", color: "#1877F2" },
-  { name: "Instagram", icon: "Instagram", url: "https://instagram.com/fordge", color: "#E4405F" },
-  { name: "Twitter", icon: "Twitter", url: "https://twitter.com/fordge", color: "#1DA1F2" },
-  { name: "LinkedIn", icon: "Linkedin", url: "https://linkedin.com/company/fordge", color: "#0A66C2" },
-  { name: "Email", icon: "Mail", url: "mailto:hello@fordge.com", color: "#EA4335" }
+  { name: "WhatsApp", icon: "MessageCircle", url: "https://wa.me/918610336533", color: "#25D366" },
+  { name: "Facebook", icon: "Facebook", url: "https://facebook.com/forgeit", color: "#1877F2" },
+  { name: "Instagram", icon: "Instagram", url: "https://instagram.com/forgeit", color: "#E4405F" },
+  { name: "Twitter", icon: "Twitter", url: "https://twitter.com/forgeit", color: "#1DA1F2" },
+  { name: "LinkedIn", icon: "Linkedin", url: "https://linkedin.com/company/forgeit", color: "#0A66C2" },
+  { name: "Email", icon: "Mail", url: "mailto:manishdemoacc@gmail.com", color: "#EA4335" }
 ];
 
 export const testimonials = [
@@ -194,7 +194,7 @@ export const testimonials = [
     name: "Rajesh Kumar",
     business: "Kumar's Restaurant",
     rating: 5,
-    comment: "Fordge built an amazing website for my restaurant. Now customers can see our menu online and book tables easily!",
+    comment: "Forgeit built an amazing website for my restaurant. Now customers can see our menu online and book tables easily!",
     avatar: "RK"
   },
   {
@@ -216,8 +216,8 @@ export const testimonials = [
 ];
 
 export const contactInfo = {
-  phone: "+91 98765 43210",
-  email: "hello@fordge.com",
+  phone: "+91 8610336533",
+  email: "manishdemoacc@gmail.com",
   address: "123 Business Street, Mumbai, Maharashtra 400001",
-  whatsapp: "+919876543210"
+  whatsapp: "+918610336533"
 };
