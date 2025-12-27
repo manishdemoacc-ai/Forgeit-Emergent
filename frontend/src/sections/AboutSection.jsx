@@ -9,7 +9,7 @@ export const AboutSection = () => {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
-              About <span className="bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">Fordge</span>
+              About <span className="bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">Forgeit</span>
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
               Empowering local businesses with digital presence
@@ -19,7 +19,7 @@ export const AboutSection = () => {
           {/* Main Content */}
           <div className="bg-gradient-to-br from-orange-50 to-red-50 dark:from-gray-800 dark:to-gray-800 rounded-3xl p-8 md:p-12 shadow-xl mb-12">
             <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
-              At Fordge, we believe every local business deserves a strong online presence. Whether you run a restaurant, retail store, clinic, or any local service, we make it simple and affordable to get your business online.
+              At Forgeit, we believe every local business deserves a strong online presence. Whether you run a restaurant, retail store, clinic, or any local service, we make it simple and affordable to get your business online.
             </p>
             <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
               Our mission is to bridge the digital gap for small businesses by providing professional websites without the technical hassle or expensive price tags.
