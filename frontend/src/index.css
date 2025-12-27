@@ -17,6 +17,11 @@ body {
     display: none !important;
 }
 
+.the-exact-class-name {
+    display: none !important;
+}
+
+
 code {
     font-family:
         source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
