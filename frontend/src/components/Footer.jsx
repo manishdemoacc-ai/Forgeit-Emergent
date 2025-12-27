@@ -97,14 +97,14 @@ export const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start">
                 <Mail className="h-4 w-4 mr-2 mt-0.5 text-orange-500 flex-shrink-0" />
-                <a href="mailto:hello@fordge.com" className="hover:text-orange-500 transition-colors">
-                  hello@fordge.com
+                <a href="mailto:manishdemoacc@gmail.com" className="hover:text-orange-500 transition-colors">
+                  manishdemoacc@gmail.com
                 </a>
               </li>
               <li className="flex items-start">
                 <MessageCircle className="h-4 w-4 mr-2 mt-0.5 text-orange-500 flex-shrink-0" />
-                <a href="https://wa.me/919876543210" className="hover:text-orange-500 transition-colors">
-                  +91 98765 43210
+                <a href="https://wa.me/918610336533" className="hover:text-orange-500 transition-colors">
+                  +91 8610336533
                 </a>
               </li>
             </ul>
