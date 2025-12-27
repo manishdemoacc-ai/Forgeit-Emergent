@@ -25,11 +25,11 @@ export const HeroSection = () => {
           {/* Main Heading */}
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 leading-tight">
             <span className="bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-              Fordge
+              Forgeit
             </span>
             <br />
             <span className="text-gray-900 dark:text-white">
-              Built strong. Built online.
+              Built strong Built online
             </span>
           </h1>
 
