@@ -19,11 +19,18 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
-            <div className="text-3xl font-bold bg-gradient-to-r from-orange-500 to-red-600 bg-clip-text text-transparent mb-3">
-              Fordge
+            <div className="flex items-center gap-3 mb-3">
+              <img 
+                src="/logo.png" 
+                alt="Forgeit Logo" 
+                className="h-10 w-10"
+              />
+              <div className="text-3xl font-bold bg-gradient-to-r from-orange-500 to-red-600 bg-clip-text text-transparent">
+                Forgeit
+              </div>
             </div>
             <p className="text-sm text-gray-400 mb-4 max-w-md">
-              Built strong. Built online.
+              Built strong Built online
             </p>
             <p className="text-sm text-gray-400 mb-6 max-w-md">
               We help local businesses build a strong online presence with simple, affordable websites.
